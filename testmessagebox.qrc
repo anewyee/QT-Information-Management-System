@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/MyMessageBox/information.png</file>
+        <file>Resources/MyMessageBox/MyMessageBox.css</file>
+        <file>Resources/MyMessageBox/question.png</file>
+        <file>Resources/MyMessageBox/warnning.png</file>
+        <file>Resources/MyTitle/close.png</file>
+        <file>Resources/MyTitle/max.png</file>
+        <file>Resources/MyTitle/min.png</file>
+        <file>Resources/MyTitle/restore.png</file>
+        <file>Resources/MyTitle.css</file>
+        <file>Resources/MyMessageBox/WindowIcon.png</file>
+        <file>Resources/MyMessageBox/reminder.png</file>
+    </qresource>
+</RCC>

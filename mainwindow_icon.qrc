@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon/icon_scholarship.png</file>
+        <file>icon/icon_stipend.png</file>
+        <file>icon/info.png</file>
+        <file>icon/output.png</file>
+        <file>icon/setting.png</file>
+        <file>icon_window.ico</file>
+        <file>icon/clear.png</file>
+    </qresource>
+</RCC>
