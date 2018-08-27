@@ -58,7 +58,7 @@ MainWindow::MainWindow(QWidget *parent) :
 void MainWindow::timerUpdate(void)
 {
     QDateTime time = QDateTime::currentDateTime();
-    QString str = time.toString("yyyy-MM-dd\nhh:mm:ss\ndddd\n");
+    QString str = time.toString("yyyy-MM-dd\nhh:mm:ss\n");
     ui->timer->setText(str);
     ui->progressBar->setValue(myProgressValue);
 }

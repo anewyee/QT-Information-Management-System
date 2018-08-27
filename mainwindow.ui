@@ -1132,7 +1132,7 @@ alternate-background-color: rgb(255, 255, 255);</string>
        <x>30</x>
        <y>70</y>
        <width>651</width>
-       <height>31</height>
+       <height>40</height>
       </rect>
      </property>
      <layout class="QHBoxLayout" name="horizontalLayout">
@@ -1151,7 +1151,7 @@ alternate-background-color: rgb(255, 255, 255);</string>
          <string>Import Scholarship Data</string>
         </property>
         <property name="icon">
-         <iconset resource="mainwindow_icon.qrc">
+         <iconset>
           <normaloff>:/new/prefix1/icon/icon_scholarship.png</normaloff>:/new/prefix1/icon/icon_scholarship.png</iconset>
         </property>
         <property name="iconSize">
@@ -1184,7 +1184,7 @@ color: rgb(0, 85, 255);</string>
        <x>30</x>
        <y>120</y>
        <width>651</width>
-       <height>31</height>
+       <height>40</height>
       </rect>
      </property>
      <layout class="QHBoxLayout" name="horizontalLayout_2">
@@ -1203,7 +1203,7 @@ color: rgb(0, 85, 255);</string>
          <string>  Import  Stipend   Data </string>
         </property>
         <property name="icon">
-         <iconset resource="mainwindow_icon.qrc">
+         <iconset>
           <normaloff>:/new/prefix1/icon/icon_stipend.png</normaloff>:/new/prefix1/icon/icon_stipend.png</iconset>
         </property>
         <property name="iconSize">
@@ -1251,7 +1251,7 @@ color: rgb(0, 85, 255);</string>
       <string notr="true">color: rgb(255, 255, 255);</string>
      </property>
      <property name="text">
-      <string>模板导出&amp;数据导入</string>
+      <string>Import &amp; Export</string>
      </property>
     </widget>
     <widget class="QGraphicsView" name="graphicsView_2">
@@ -1303,7 +1303,7 @@ alternate-background-color: rgb(255, 255, 255);</string>
       <string>ExportModel</string>
      </property>
      <property name="icon">
-      <iconset resource="mainwindow_icon.qrc">
+      <iconset>
        <normaloff>:/new/prefix1/icon/output.png</normaloff>:/new/prefix1/icon/output.png</iconset>
      </property>
     </widget>
@@ -1436,7 +1436,7 @@ color: rgb(255, 0, 0);</string>
      <string>CLEARDATABASE</string>
     </property>
     <property name="icon">
-     <iconset resource="mainwindow_icon.qrc">
+     <iconset>
       <normaloff>:/new/prefix1/icon/clear.png</normaloff>:/new/prefix1/icon/clear.png</iconset>
     </property>
    </widget>
@@ -1468,8 +1468,6 @@ color: rgb(255, 0, 0);</string>
   </widget>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
- <resources>
-  <include location="mainwindow_icon.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
